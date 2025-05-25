@@ -38,4 +38,7 @@ Moment.js is freely distributable under the terms of the [MIT license](LICENSE).
 [travis-url]: http://travis-ci.org/moment/moment
 [travis-image]: http://img.shields.io/travis/moment/moment/develop.svg?style=flat
 
-<!-- GitAds-Verify: JWU96MWB2WW6LZ2YV8DG99X5SDI785N8 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/moment@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/moment@github)
+
+
